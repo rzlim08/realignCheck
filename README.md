@@ -19,4 +19,5 @@ To print the plot, use the realignCheck function
 
 ### Output
 * if plot, creates a 'ps' file with given filename 
-* returns a struct 
+* returns a struct with number of scans > threshold for each run
+ 
